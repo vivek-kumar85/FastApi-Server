@@ -1,5 +1,5 @@
 # FastAPI CSV File Upload
-
+![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
 This project demonstrates a FastAPI application that allows users to upload a CSV file. The uploaded file is processed, and its content is saved with a timestamp in the "files" directory.
 
 ## Table of Contents
